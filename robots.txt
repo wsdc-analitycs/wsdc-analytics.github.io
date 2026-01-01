@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wsdc-analitycs.github.io/sitemap.xml
+
